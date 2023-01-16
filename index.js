@@ -1,3 +1,8 @@
+/**
+ * Test script
+ * @author andrefs94
+ */
+
 const fruits = ['orange', 'apple', 'banana'];
 
 for (const fruit of fruits) {
